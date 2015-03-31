@@ -1,7 +1,7 @@
 select actor_id, count(*) c from events_event group by actor_id order by c desc;
 # top actors: 724310 727752 719459 722729 725516 722482
 # just some actors: 719339 (2438), 727860 (2437), 719565 (2437), 728452 (2436), 719606 (2433), 723283 (2431)
-# where actor_id in [719339, 727860, 719565, 728452, 719606, 723283]
+# where actor_id in (719339, 727860, 719565, 728452, 719606, 723283)
 select * from events_event where actor_id in (719339, 727860, 719565, 728452, 719606, 723283) order by time;
 
 
