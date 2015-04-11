@@ -1,0 +1,25 @@
+System.out.println("Hello World!");
+
+path = "D:\\stepic\\prom-6.4.1\\data\\";
+res_path = "D:\\stepic\\prom-6.4.1\\data\\results\\";
+
+log = open_xes_log_file(path + "10000_data.xes");
+
+System.out.println("Mining");
+net_and_marking = alpha_miner(log);
+net = net_and_marking[0];
+marking = net_and_marking[1];
+
+System.out.println("Saving");
+File net_file = new File(res_path + "mined_net.pnml");
+pnml_export_petri_net_(net, net_file);
+
+// visualize
+javax.swing.JComponent comp = visualize_petri_net(net, marking);
+javax.swing.JFrame frame = new javax.swing.JFrame();
+frame.add(comp);
+frame.setSize(400,400);
+frame.setVisible(true);
+
+//System.exit(0);
+System.out.println("All work is done, to terminate type CTRL+C");

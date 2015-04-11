@@ -1,0 +1,28 @@
+System.out.println("Hello World!");
+
+path = "D:\\stepic\\prom-6.4.1\\data\\";
+res_path = "D:\\stepic\\prom-6.4.1\\data\\results\\";
+
+log = open_xes_log_file(path + "10000_data.xes");
+
+System.out.println("Getting info");
+org.deckfour.xes.info.XLogInfo logInfo = org.deckfour.xes.info.XLogInfoFactory.createLogInfo(log);
+
+System.out.println("Classifier");
+org.deckfour.xes.classification.XEventClassifier classifier = logInfo.getEventClassifiers().iterator().next();
+System.out.println("\t" + classifier.name());		// prints Resource o_O
+
+System.out.println("Heuristics miner settings");
+org.processmining.plugins.heuristicsnet.miner.heuristics.miner.settings.HeuristicsMinerSettings hms = new org.processmining.plugins.heuristicsnet.miner.heuristics.miner.settings.HeuristicsMinerSettings();
+hms.setClassifier(classifier);
+
+System.out.println("Mining");
+net = mine_for_a_heuristics_net_using_heuristics_miner(log, hms);
+
+javax.swing.JComponent comp = visualize_heuristicsnet_with_annotations(net);
+
+javax.swing.JFrame frame = new javax.swing.JFrame(); frame.add(comp); 
+frame.setSize(1000, 700); frame.setVisible(true);
+
+//System.exit(0);
+System.out.println("All work is done, to terminate type CTRL+C");

@@ -1,0 +1,34 @@
+System.out.println("Hello World!");
+
+path = "D:\\stepic\\prom-6.4.1\\data\\";
+res_path = "D:\\stepic\\prom-6.4.1\\data\\results\\";
+
+log = open_xes_log_file(path + "10000_data.xes");
+
+System.out.println("Mining");
+// mine_fuzzy_model(XLog) -> MetricsRepository
+metr_repos = mine_fuzzy_model(log);
+
+System.out.println("Showing...");
+
+// определяет способ отображения fuzzy model
+// первые два -- графы (с интерактивом и без), последние -- метрики
+MODE = 1;
+
+switch(MODE) {
+	case 1: 	javax.swing.JComponent comp = _1_show_fuzzy_model(metr_repos);
+				break;
+	case 2: 	javax.swing.JComponent comp = _2_show_default_fuzzy_instance(metr_repos);
+				break;
+	case 3: 	javax.swing.JComponent comp = _3_show_fuzzy_unary_metrics(metr_repos);
+				break;
+	case 4: 	javax.swing.JComponent comp = _4_show_fuzzy_binary_metrics(metr_repos);
+				break;
+}
+
+javax.swing.JFrame frame = new javax.swing.JFrame(); 
+frame.add(comp);
+frame.setSize(1000, 700); frame.setVisible(true);
+
+//System.exit(0);
+System.out.println("All work is done, to terminate type CTRL+C");
