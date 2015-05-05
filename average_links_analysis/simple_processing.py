@@ -181,7 +181,6 @@ def read_structure(filename):
     return str, positions
 
 
-
 def explore_rel_links_with_structure(filename):
     # читаем ссылки
     in_links, out_links = read_links(filename)
@@ -223,7 +222,7 @@ def explore_rel_links_with_structure(filename):
     frequencies = defaultdict(float)
     position_freq = {1: defaultdict(float), 0: defaultdict(float), -1: defaultdict(float)}
     for step in rel_links:
-        links = rel_links[step]     # [r for r in rel_links[step] if r.count > 50]
+        links = rel_links[step]
         summ = sum([r.count for r in links])
 
         for r in links:
@@ -245,7 +244,24 @@ def explore_rel_links_with_structure(filename):
             print("relative link to {0} happens in {1:.3f}% cases".format(rel, position_freq[type][rel] * 100) +
                   "  ({0:.3f}% of all)".format(frequencies[rel] * 100 / step_num * num[type]))
 
+    # посчитаем, насколько отличаются эти частоты для конкретных степов (lesson #2232 и пара соседних степов)
+    some_steps = [str(i) for i in range(40, 50)]
+    for some_step in some_steps:
+        pos = position[step_id[some_step]]
 
+        some_step_freq = defaultdict(float)
+        some_step_type_freq = {"video": defaultdict(float), "quiz": defaultdict(float)}
+        links = rel_links[some_step]
+        summ = sum([r.count for r in links])
+        for r in links:
+            some_step_freq[r.rel] += r.count / summ
+            some_step_type_freq[r.dest_type][r.rel] += r.count / summ
+
+        print("\n\nREFERENCES FOR STEP #{0} (id: {1}, type: {2}, position: {3})".format(some_step, step_id[some_step], step_type[some_step], pos))
+        for rel in [s for s in sorted(some_step_freq.keys(), key=lambda x: some_step_freq[x], reverse=True)
+                    if some_step_freq[s] * 100 > percent_threshold]:
+            print("relative link to {0} happens in {1:.3f}% cases".format(rel, some_step_freq[rel] * 100))
+            print("\tdifference with average for this position: {0:.3f}%".format(abs((some_step_freq[rel] - position_freq[pos][rel]) * 100)))
 
 
 # explore_simple_rel_links(metrics_file)

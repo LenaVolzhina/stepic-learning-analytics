@@ -36,3 +36,147 @@ relative link to 2 happens in 6.065% cases  (4.818% of all)
 relative link to -2 happens in 1.627% cases  (1.196% of all)
 relative link to 3 happens in 1.536% cases  (1.618% of all)
 relative link to 4 happens in 1.254% cases  (0.893% of all)
+
+
+REFERENCES FOR STEP #40 (id: 12055, type: video, position: -1)
+relative link to 1 happens in 71.136% cases
+	difference with average for this position: 34.191%
+relative link to 2 happens in 10.743% cases
+	difference with average for this position: 2.968%
+relative link to -1 happens in 2.945% cases
+	difference with average for this position: 15.358%
+relative link to -3 happens in 2.496% cases
+	difference with average for this position: 1.463%
+relative link to -4 happens in 2.076% cases
+	difference with average for this position: 1.668%
+relative link to 28 happens in 2.020% cases
+	difference with average for this position: 1.832%
+relative link to 6 happens in 1.935% cases
+	difference with average for this position: 0.997%
+relative link to 4 happens in 1.290% cases
+	difference with average for this position: 0.511%
+relative link to -11 happens in 1.234% cases
+	difference with average for this position: 0.887%
+relative link to -21 happens in 1.122% cases
+	difference with average for this position: 1.058%
+
+
+REFERENCES FOR STEP #41 (id: 12059, type: video, position: 1)
+relative link to 1 happens in 90.804% cases
+	difference with average for this position: 19.447%
+relative link to 2 happens in 3.460% cases
+	difference with average for this position: 7.461%
+relative link to 9 happens in 2.428% cases
+	difference with average for this position: 1.975%
+relative link to 3 happens in 1.669% cases
+	difference with average for this position: 2.169%
+
+
+REFERENCES FOR STEP #42 (id: 12061, type: video, position: 0)
+relative link to 1 happens in 88.051% cases
+	difference with average for this position: 12.356%
+relative link to 2 happens in 5.815% cases
+	difference with average for this position: 0.250%
+relative link to -1 happens in 3.319% cases
+	difference with average for this position: 4.479%
+relative link to 4 happens in 1.062% cases
+	difference with average for this position: 0.191%
+
+
+REFERENCES FOR STEP #43 (id: 12060, type: video, position: 0)
+relative link to 1 happens in 93.985% cases
+	difference with average for this position: 18.290%
+relative link to 2 happens in 5.004% cases
+	difference with average for this position: 1.061%
+
+
+REFERENCES FOR STEP #44 (id: 14015, type: video, position: 0)
+relative link to 1 happens in 54.352% cases
+	difference with average for this position: 21.343%
+relative link to 2 happens in 25.423% cases
+	difference with average for this position: 19.358%
+relative link to -1 happens in 7.345% cases
+	difference with average for this position: 0.452%
+relative link to 3 happens in 2.757% cases
+	difference with average for this position: 1.221%
+relative link to -3 happens in 1.595% cases
+	difference with average for this position: 0.921%
+relative link to 4 happens in 1.418% cases
+	difference with average for this position: 0.164%
+relative link to 24 happens in 1.398% cases
+	difference with average for this position: 1.379%
+relative link to -2 happens in 1.359% cases
+	difference with average for this position: 0.268%
+relative link to 7 happens in 1.122% cases
+	difference with average for this position: 0.852%
+
+
+REFERENCES FOR STEP #45 (id: 12062, type: video, position: 0)
+relative link to 1 happens in 98.272% cases
+	difference with average for this position: 22.577%
+relative link to 2 happens in 1.728% cases
+	difference with average for this position: 4.337%
+
+
+REFERENCES FOR STEP #46 (id: 6550, type: quiz, position: 0)
+relative link to 1 happens in 82.290% cases
+	difference with average for this position: 6.594%
+relative link to -1 happens in 6.338% cases
+	difference with average for this position: 1.460%
+relative link to -2 happens in 4.183% cases
+	difference with average for this position: 2.557%
+relative link to 2 happens in 2.743% cases
+	difference with average for this position: 3.322%
+
+
+REFERENCES FOR STEP #47 (id: 6551, type: quiz, position: 0)
+relative link to 1 happens in 67.292% cases
+	difference with average for this position: 8.403%
+relative link to -1 happens in 24.859% cases
+	difference with average for this position: 17.061%
+relative link to -3 happens in 2.346% cases
+	difference with average for this position: 1.672%
+relative link to -28 happens in 1.021% cases
+	difference with average for this position: 1.003%
+
+
+REFERENCES FOR STEP #48 (id: 6556, type: quiz, position: -1)
+relative link to 1 happens in 30.037% cases
+	difference with average for this position: 6.908%
+relative link to -1 happens in 25.125% cases
+	difference with average for this position: 6.822%
+relative link to -2 happens in 6.544% cases
+	difference with average for this position: 2.381%
+relative link to 2 happens in 6.075% cases
+	difference with average for this position: 1.700%
+relative link to 6 happens in 5.526% cases
+	difference with average for this position: 4.588%
+relative link to 20 happens in 4.637% cases
+	difference with average for this position: 4.333%
+relative link to 3 happens in 3.975% cases
+	difference with average for this position: 0.572%
+relative link to -4 happens in 3.781% cases
+	difference with average for this position: 0.037%
+relative link to -7 happens in 3.409% cases
+	difference with average for this position: 2.756%
+relative link to -47 happens in 1.503% cases
+	difference with average for this position: 1.447%
+relative link to -6 happens in 1.357% cases
+	difference with average for this position: 1.401%
+relative link to -29 happens in 1.083% cases
+	difference with average for this position: 0.995%
+relative link to -3 happens in 1.066% cases
+	difference with average for this position: 2.893%
+
+
+REFERENCES FOR STEP #49 (id: 12066, type: video, position: 1)
+relative link to 1 happens in 81.110% cases
+	difference with average for this position: 9.753%
+relative link to 2 happens in 7.342% cases
+	difference with average for this position: 3.579%
+relative link to 9 happens in 5.446% cases
+	difference with average for this position: 4.993%
+relative link to 3 happens in 2.723% cases
+	difference with average for this position: 1.115%
+relative link to 5 happens in 1.172% cases
+	difference with average for this position: 0.003%
