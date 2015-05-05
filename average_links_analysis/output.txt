@@ -1,0 +1,113 @@
+ALL REFERENCES
+relative link to 1 happens in 68.786% cases
+relative link to -1 happens in 8.218% cases
+relative link to 2 happens in 7.143% cases
+relative link to 3 happens in 2.398% cases
+relative link to -2 happens in 1.773% cases
+relative link to 4 happens in 1.323% cases
+relative link to -3 happens in 1.095% cases
+
+REFERENCES TO QUIZES
+relative link to 1 happens in 80.091% cases  (28.898% of all)
+relative link to 2 happens in 11.782% cases  (3.001% of all)
+relative link to -1 happens in 10.107% cases  (3.452% of all)
+relative link to 3 happens in 3.317% cases  (1.008% of all)
+relative link to -2 happens in 2.602% cases  (0.745% of all)
+relative link to 4 happens in 2.568% cases  (0.556% of all)
+relative link to -3 happens in 1.142% cases  (0.460% of all)
+
+REFERENCES TO VIDEOS
+relative link to 1 happens in 60.595% cases  (39.888% of all)
+relative link to -1 happens in 6.849% cases  (4.765% of all)
+relative link to 2 happens in 3.782% cases  (4.142% of all)
+relative link to 3 happens in 1.732% cases  (1.391% of all)
+relative link to -2 happens in 1.173% cases  (1.028% of all)
+relative link to -3 happens in 1.062% cases  (0.635% of all)
+relative link to 4 happens in 0.422% cases  (0.767% of all)
+
+
+REFERENCES FOR STEP #40 (id: 12055, type: video)
+relative link to 1 happens in 71.136% cases
+relative link to 2 happens in 10.743% cases
+relative link to -1 happens in 2.945% cases
+relative link to -3 happens in 2.496% cases
+relative link to -4 happens in 2.076% cases
+relative link to 28 happens in 2.020% cases
+relative link to 6 happens in 1.935% cases
+relative link to 4 happens in 1.290% cases
+relative link to -11 happens in 1.234% cases
+relative link to -21 happens in 1.122% cases
+
+
+REFERENCES FOR STEP #41 (id: 12059, type: video)
+relative link to 1 happens in 90.804% cases
+relative link to 2 happens in 3.460% cases
+relative link to 9 happens in 2.428% cases
+relative link to 3 happens in 1.669% cases
+
+
+REFERENCES FOR STEP #42 (id: 12061, type: video)
+relative link to 1 happens in 88.051% cases
+relative link to 2 happens in 5.815% cases
+relative link to -1 happens in 3.319% cases
+relative link to 4 happens in 1.062% cases
+
+
+REFERENCES FOR STEP #43 (id: 12060, type: video)
+relative link to 1 happens in 93.985% cases
+relative link to 2 happens in 5.004% cases
+
+
+REFERENCES FOR STEP #44 (id: 14015, type: video)
+relative link to 1 happens in 54.352% cases
+relative link to 2 happens in 25.423% cases
+relative link to -1 happens in 7.345% cases
+relative link to 3 happens in 2.757% cases
+relative link to -3 happens in 1.595% cases
+relative link to 4 happens in 1.418% cases
+relative link to 24 happens in 1.398% cases
+relative link to -2 happens in 1.359% cases
+relative link to 7 happens in 1.122% cases
+
+
+REFERENCES FOR STEP #45 (id: 12062, type: video)
+relative link to 1 happens in 98.272% cases
+relative link to 2 happens in 1.728% cases
+
+
+REFERENCES FOR STEP #46 (id: 6550, type: quiz)
+relative link to 1 happens in 82.290% cases
+relative link to -1 happens in 6.338% cases
+relative link to -2 happens in 4.183% cases
+relative link to 2 happens in 2.743% cases
+
+
+REFERENCES FOR STEP #47 (id: 6551, type: quiz)
+relative link to 1 happens in 67.292% cases
+relative link to -1 happens in 24.859% cases
+relative link to -3 happens in 2.346% cases
+relative link to -28 happens in 1.021% cases
+
+
+REFERENCES FOR STEP #48 (id: 6556, type: quiz)
+relative link to 1 happens in 30.037% cases
+relative link to -1 happens in 25.125% cases
+relative link to -2 happens in 6.544% cases
+relative link to 2 happens in 6.075% cases
+relative link to 6 happens in 5.526% cases
+relative link to 20 happens in 4.637% cases
+relative link to 3 happens in 3.975% cases
+relative link to -4 happens in 3.781% cases
+relative link to -7 happens in 3.409% cases
+relative link to -47 happens in 1.503% cases
+relative link to -6 happens in 1.357% cases
+relative link to -29 happens in 1.083% cases
+relative link to -3 happens in 1.066% cases
+
+
+REFERENCES FOR STEP #49 (id: 12066, type: video)
+relative link to 1 happens in 81.110% cases
+relative link to 2 happens in 7.342% cases
+relative link to 9 happens in 5.446% cases
+relative link to 3 happens in 2.723% cases
+relative link to 5 happens in 1.172% cases
