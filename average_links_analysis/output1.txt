@@ -1,0 +1,38 @@
+ALL REFERENCES
+relative link to 1 happens in 68.786% cases
+relative link to -1 happens in 8.218% cases
+relative link to 2 happens in 7.143% cases
+relative link to 3 happens in 2.398% cases
+relative link to -2 happens in 1.773% cases
+relative link to 4 happens in 1.323% cases
+relative link to -3 happens in 1.095% cases
+
+REFERENCES FROM FIRST
+relative link to 1 happens in 71.357% cases  (11.396% of all)
+relative link to 2 happens in 10.921% cases  (1.183% of all)
+relative link to 3 happens in 3.838% cases  (0.397% of all)
+relative link to 4 happens in 2.132% cases  (0.219% of all)
+relative link to 7 happens in 1.192% cases  (0.096% of all)
+relative link to 5 happens in 1.169% cases  (0.156% of all)
+relative link to 8 happens in 1.155% cases  (0.063% of all)
+relative link to 6 happens in 1.040% cases  (0.089% of all)
+
+REFERENCES FROM LAST
+relative link to 1 happens in 36.945% cases  (10.989% of all)
+relative link to -1 happens in 18.303% cases  (1.313% of all)
+relative link to 2 happens in 7.775% cases  (1.141% of all)
+relative link to 3 happens in 4.547% cases  (0.383% of all)
+relative link to -2 happens in 4.163% cases  (0.283% of all)
+relative link to -3 happens in 3.959% cases  (0.175% of all)
+relative link to -4 happens in 3.744% cases  (0.159% of all)
+relative link to -6 happens in 2.759% cases  (0.091% of all)
+relative link to 5 happens in 1.275% cases  (0.151% of all)
+relative link to 7 happens in 1.246% cases  (0.093% of all)
+
+REFERENCES FROM MIDDLE
+relative link to 1 happens in 75.695% cases  (46.400% of all)
+relative link to -1 happens in 7.798% cases  (5.543% of all)
+relative link to 2 happens in 6.065% cases  (4.818% of all)
+relative link to -2 happens in 1.627% cases  (1.196% of all)
+relative link to 3 happens in 1.536% cases  (1.618% of all)
+relative link to 4 happens in 1.254% cases  (0.893% of all)

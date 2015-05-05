@@ -14,7 +14,10 @@ relative link to -1 happens in 10.107% cases  (3.452% of all)
 relative link to 3 happens in 3.317% cases  (1.008% of all)
 relative link to -2 happens in 2.602% cases  (0.745% of all)
 relative link to 4 happens in 2.568% cases  (0.556% of all)
+relative link to 5 happens in 1.831% cases  (0.396% of all)
+relative link to -4 happens in 1.563% cases  (0.418% of all)
 relative link to -3 happens in 1.142% cases  (0.460% of all)
+relative link to 7 happens in 1.047% cases  (0.243% of all)
 
 REFERENCES TO VIDEOS
 relative link to 1 happens in 60.595% cases  (39.888% of all)
@@ -23,7 +26,6 @@ relative link to 2 happens in 3.782% cases  (4.142% of all)
 relative link to 3 happens in 1.732% cases  (1.391% of all)
 relative link to -2 happens in 1.173% cases  (1.028% of all)
 relative link to -3 happens in 1.062% cases  (0.635% of all)
-relative link to 4 happens in 0.422% cases  (0.767% of all)
 
 
 REFERENCES FOR STEP #40 (id: 12055, type: video)
